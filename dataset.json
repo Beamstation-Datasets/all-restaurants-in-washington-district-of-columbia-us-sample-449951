@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Washington, District of Columbia with a population of over 689k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
   "config_name": "All Restaurants in Washington, District of Columbia, US",
-  "export_job_id": "05e54fd0-8467-4c34-b8df-56b0f74a0191",
+  "export_job_id": "656de1cb-a1bf-4f32-9ce8-f112a14de814",
   "github_org": "Beamstation-Datasets",
   "id_short": 449951,
   "location_name": "Washington",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-washington-district-of-columbia-us-sample-449951",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/449951/beamstation_449951_restaurants-us-dc_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 377,
-  "sample_sha256": "29723ca268e72d3f6c62e2820bb2c980d9a760f8ffd1f7bc51f1b00e0109d50d",
-  "sample_size_bytes": 1352980,
-  "total_records": 3770,
-  "updated_at": "2026-04-14T19:28:07.962827+00:00"
+  "sample_records": 366,
+  "sample_sha256": "3868d5ae7382aaaaa9f3c63c6cdbda3f00fecba49006659003b433cc2757908a",
+  "sample_size_bytes": 1357099,
+  "total_records": 3661,
+  "updated_at": "2026-04-21T21:28:14.569064+00:00"
 }
