@@ -1,12 +1,12 @@
 {
-  "export_job_id": "65e9256c-d919-4dec-b681-7ed4f28c6da6",
+  "export_job_id": "adc53f96-acfb-4050-b118-4d3368eaf3b8",
   "id_short": 449951,
-  "published_at": "2026-04-29T07:39:15Z",
+  "published_at": "2026-05-08T07:06:02Z",
   "repo_name": "all-restaurants-in-washington-district-of-columbia-us-sample-449951",
   "sample_asset_name": "beamstation_449951_restaurants-us-dc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/449951/beamstation_449951_restaurants-us-dc_SAMPLE_DIST.csv",
-  "sample_records": 312,
-  "sample_sha256": "cf84c6ce5977fa3dd7b1e9d684cf0dc5e67883e148cd0f9bdc3c6f610c3b55f6",
-  "sample_size_bytes": 1074705,
-  "total_records": 3128
+  "sample_records": 381,
+  "sample_sha256": "05b542e4c5b048dc6e6c70dab3665aa823206c56c659963b733383e0ce518db4",
+  "sample_size_bytes": 1379982,
+  "total_records": 3812
 }
