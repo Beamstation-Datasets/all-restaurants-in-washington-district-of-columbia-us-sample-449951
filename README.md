@@ -1,6 +1,6 @@
 # All Restaurants in Washington, District of Columbia, US
 
-> Free BeamStation sample export with 312 rows and masked direct-contact fields.
+> Free BeamStation sample export with 381 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `449951` |
 | Location | Washington |
 | Category | Restaurants |
-| Full dataset size | 3,128 records |
-| Free sample size | 312 records (9.97%) |
-| Last export | 2026-04-28T23:40:56.359776+00:00 |
+| Full dataset size | 3,812 records |
+| Free sample size | 381 records (9.99%) |
+| Last export | 2026-05-08T03:15:42.940305+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-washington-district-of-columbia-us-sample-449951/releases/download/sample-latest/beamstation_449951_restaurants-us-dc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
